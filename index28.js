@@ -1,0 +1,21 @@
+const number1 = 1;
+const number2 = 2;
+const number3 = 3;
+const number4= 4;
+const number5 = 5;
+const number6 = 6;
+const number7 = 7;
+const number8 = 8;
+const number9 = 9;
+const number10 = 10;
+
+console.log(`1 time ${number1} equal ${number1}`);
+console.log(`2 times ${number1} equals ${number2}`);
+console.log(`3 times ${number1} equals ${number3}`);
+console.log(`4 times ${number1} equals ${number4}`);
+console.log(`5 times ${number1} equals ${number5}`);
+console.log(`6 times ${number1} equals ${number6}`);
+console.log(`7 times ${number1} equals ${number7}`);
+console.log(`8 times ${number1} equals ${number8}`);
+console.log(`9 times ${number1} equals ${number9}`);
+console.log(`10 times ${number1} equals ${number10}`);
